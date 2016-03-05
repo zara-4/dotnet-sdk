@@ -16,6 +16,7 @@ Run `Install-Package Zara4` from the NuGet package manager console to install th
 Download and install `Zara4.dll` into your application. You must add a reference to the dll to import the Zara 4 SDK.
 
 
+---
 
 
 ## VB
@@ -40,6 +41,8 @@ Dim processedImage = apiClient.processImage(originalImage)
 apiClient.downloadProcessedImage(processedImage, "/where/to/save/compressed-image.jpg")
 ```
 
+
+---
 
 
 ## C Sharp
