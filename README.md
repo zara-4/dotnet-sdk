@@ -42,7 +42,7 @@ apiClient.downloadProcessedImage(processedImage, "/where/to/save/compressed-imag
 
 
 
-## C#
+## C Sharp
 
 You must import the Zara 4 SDK into your application by copying the following lines into the top of your C# file.
 
