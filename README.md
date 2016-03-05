@@ -41,6 +41,10 @@ Dim processedImage = apiClient.processImage(originalImage)
 apiClient.downloadProcessedImage(processedImage, "/where/to/save/compressed-image.jpg")
 ```
 
+### Example application
+
+To help you get started using the Zara 4 SDK with VB, we have created an [example application](https://github.com/zara-4/example-vb-dotnet-application) demonstrating how to use the SDK.
+
 
 ---
 
